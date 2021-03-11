@@ -17,10 +17,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Lesson_7" />
+        <module name="Task_7.1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Lesson_7" target="15" />
       <module name="prosto" target="15" />
+      <module name="Task_7" target="15" />
+      <module name="Task_7.1" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
