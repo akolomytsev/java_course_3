@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f2a4d72-9685-4113-a74c-747a8445bd8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_0_alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_34_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/Lesson_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/dogs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/AdvancedAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/MarkingAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/ReflectionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/dbexample/Ann.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/dbexample/AnnWithParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/dbexample/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/dbexample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/dbexample/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/hib/Column.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/hib/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/hib/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/hib/DogRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/hib/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/hib/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/src/main/java/hib/Repo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/Task_7.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/src/main/java/ClassExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/src/main/java/ClassForTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/src/main/java/myTesting/AfterSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/src/main/java/myTesting/BeforeSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/src/main/java/myTesting/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7.1/src/main/java/myTesting/TestsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/Task_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/src/main/java/Test/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/src/main/java/Test/ExceptionTestContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/src/main/java/Test/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/src/main/java/Test/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/src/main/java/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7/src/main/java/Test/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pQVaZzcUtEd87SI0UmeOUE0E9U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hib.Main" />
+      <module name="Lesson_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task_7.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dbexample.Main" />
+      <module name="Lesson_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="Lesson_7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.TestRunner" />
+      <module name="Task_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.TestRunner" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f2a4d72-9685-4113-a74c-747a8445bd8f" name="Default Changelist" comment="" />
+      <created>1615115367268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615115367268</updated>
+      <workItem from="1615115368924" duration="84000" />
+      <workItem from="1615115470979" duration="101000" />
+      <workItem from="1615115661226" duration="636000" />
+      <workItem from="1615127542171" duration="23000" />
+      <workItem from="1615127612571" duration="156000" />
+      <workItem from="1615127796828" duration="133000" />
+      <workItem from="1615127970084" duration="35000" />
+      <workItem from="1615128036604" duration="227000" />
+      <workItem from="1615128277982" duration="131000" />
+      <workItem from="1615128682492" duration="823000" />
+      <workItem from="1615178709822" duration="17707000" />
+      <workItem from="1615204643281" duration="1113000" />
+      <workItem from="1615218089532" duration="4554000" />
+      <workItem from="1615300410444" duration="11345000" />
+      <workItem from="1615475858098" duration="722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.sqlite.SQLiteException" package="org.sqlite" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
